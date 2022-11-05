@@ -1,0 +1,17 @@
+{
+    "name": "user/ecommerce",
+    "autoload": {
+        "psr-4": {
+            "User\\Ecommerce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bustarde",
+            "email": "bustarde.audriel@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
